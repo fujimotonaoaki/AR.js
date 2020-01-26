@@ -1,5 +1,5 @@
 <?php
 
-header('Location: /index.html');
+header('Location: /aframe/examples/places-name/index.html');
 
 ?>
